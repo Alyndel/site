@@ -1,7 +1,7 @@
 <?php
-  require_once('head.php');
+    require_once('head.php');
 ?>
-  <body>
-    Hello le monde !
-  </body>
+    <body>
+        Hello le monde !
+    </body>
 </html>
