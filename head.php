@@ -4,6 +4,6 @@
         <meta charset="UTF-8">
         <base href="https://hugonitard.fr">
         <title>Site de Hugo N.</title>
-        <link rel="stylesheet" href="css/bootstrap.css">
+        <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
         <script src="bootstrap.js"></script>
     </head>
